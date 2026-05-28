@@ -252,6 +252,10 @@
     {
       "fingerprint": "65e88afc3d088f897ed49e52ff9c1ac511cf8d162ef8901babb0f229eb0ee861",
       "deliveredAt": "2026-05-26T23:23:02.242Z"
+    },
+    {
+      "fingerprint": "a5199502e472968599ea88867d0df2bb0b4c1583f21e641c9864cc32d5ad7d96",
+      "deliveredAt": "2026-05-28T23:42:27.870Z"
     }
   ]
 }
