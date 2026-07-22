@@ -468,6 +468,10 @@
     {
       "fingerprint": "5428e0d18330ba6b758aa3716e5288a9ba66e5d3a3a672747bb63e9592696087",
       "deliveredAt": "2026-07-20T23:13:40.813Z"
+    },
+    {
+      "fingerprint": "deb234d2453ea5f37d379bdaf7e2ccd13613c5fd7ba3d527322aaa0cad5366c7",
+      "deliveredAt": "2026-07-22T23:15:10.606Z"
     }
   ]
 }
