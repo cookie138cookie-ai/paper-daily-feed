@@ -568,6 +568,14 @@
     {
       "fingerprint": "906ba0576b1666d3205d4163c91eb03ff6f94f67f3c5821abf897926aa089387",
       "deliveredAt": "2026-08-14T22:39:54.245Z"
+    },
+    {
+      "fingerprint": "1fa99b0a9b9ab51a86bcddc6366f7f93bdbb999752b70cc2b3decdf34935251c",
+      "deliveredAt": "2026-08-19T22:41:02.742Z"
+    },
+    {
+      "fingerprint": "2596e1587b95edfe1627c3a3d951ea26c7917de12b939bb236ed9f8fbeaeb2f4",
+      "deliveredAt": "2026-08-19T22:41:02.742Z"
     }
   ]
 }
