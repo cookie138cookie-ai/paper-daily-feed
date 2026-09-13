@@ -708,6 +708,14 @@
     {
       "fingerprint": "80cfdb45e2fa1f21e9ecb5553930d0cf749c5ac0204450cba382b52d48943c30",
       "deliveredAt": "2026-09-12T00:16:54.438Z"
+    },
+    {
+      "fingerprint": "9a443f73ad5b2bbd6461a759ffe6f3aa01f23395ac75f2dee7bdba50807f1190",
+      "deliveredAt": "2026-09-13T00:00:07.711Z"
+    },
+    {
+      "fingerprint": "b59dd571f08e5614ef1d3a1a3efe0b0ccb3416b9980a6942904cc077d05e796a",
+      "deliveredAt": "2026-09-13T00:00:07.711Z"
     }
   ]
 }
