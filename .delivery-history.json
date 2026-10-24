@@ -840,6 +840,14 @@
     {
       "fingerprint": "fc9f8cdbac6a727e0b6d4b7222b20cdd6ae1fce245f720fa76ae18a4d30f004e",
       "deliveredAt": "2026-10-23T00:38:22.204Z"
+    },
+    {
+      "fingerprint": "f80b1b2cd403fe66a30fffb4f980db8e8b4f9edac82166b463cb97dd3cf5eb23",
+      "deliveredAt": "2026-10-24T00:38:32.392Z"
+    },
+    {
+      "fingerprint": "b6ca090ed4bfe95095c799436d3b89346ab3dc32c0605db7d936b733dfec7af0",
+      "deliveredAt": "2026-10-24T00:38:32.392Z"
     }
   ]
 }
