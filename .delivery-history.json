@@ -856,6 +856,14 @@
     {
       "fingerprint": "7df019990e186e52ff6d5da0d0b43e44e5fdcb5a3b62796857b03d8db9e97831",
       "deliveredAt": "2026-10-25T00:20:10.504Z"
+    },
+    {
+      "fingerprint": "adf836302afc97f1de045f9471a18ea6209760cdc823f66b36ca5fdb2e5fd587",
+      "deliveredAt": "2026-10-28T01:18:26.407Z"
+    },
+    {
+      "fingerprint": "c950f18de5a083bc7f0e2a05aa1999ae0e035a26bfa9677e1137a4d8bba9aaa2",
+      "deliveredAt": "2026-10-28T01:18:26.407Z"
     }
   ]
 }
