@@ -2,46 +2,6 @@
   "version": 1,
   "delivered": [
     {
-      "fingerprint": "035789de76b057a8c5b22128b6894b45d1bdbcc9d83d88a79453f018525a29c1",
-      "deliveredAt": "2026-05-23T23:12:46.694Z"
-    },
-    {
-      "fingerprint": "a00ddda76189ea6f8eda6a6391cdb034cf259dd864df158bd5c1181f800a5ac3",
-      "deliveredAt": "2026-05-23T23:12:46.694Z"
-    },
-    {
-      "fingerprint": "217a6a96104590f3e0543b595d536166fe0a2036ad3335f218f608e79e8eede1",
-      "deliveredAt": "2026-05-23T23:12:46.694Z"
-    },
-    {
-      "fingerprint": "f362f4bc0cb845a1411e3fd95fafe03cfe1dd791ce6443459663f888ede5e41d",
-      "deliveredAt": "2026-05-23T23:12:46.694Z"
-    },
-    {
-      "fingerprint": "e5beebaafca8d11d46f4a6fc6884ff4e9ed4bd41067e3ff542d36eb537bf3e93",
-      "deliveredAt": "2026-05-23T23:12:46.694Z"
-    },
-    {
-      "fingerprint": "502a578de6816f3d74f269ad1e035f99523482eee16881ea4fd3546020c95ff3",
-      "deliveredAt": "2026-05-23T23:12:46.694Z"
-    },
-    {
-      "fingerprint": "051504eab3047d8435b71dd69b76e926c1262ad3ef380a1ab24f7926c918f481",
-      "deliveredAt": "2026-05-23T23:12:46.694Z"
-    },
-    {
-      "fingerprint": "cd188fcdc6d0119f0224bf574144ecc0c94825148c38f2b202632971b4f1e147",
-      "deliveredAt": "2026-05-23T23:12:46.694Z"
-    },
-    {
-      "fingerprint": "d780b151886b3c39dff2f3b80978cb0aa77caeb95e6b34d9c7839eb297aa7bf5",
-      "deliveredAt": "2026-05-23T23:12:46.694Z"
-    },
-    {
-      "fingerprint": "f0c4300a33ecb4676ac0c50fef35ef193b97d5db6f776d2493de6713898015da",
-      "deliveredAt": "2026-05-23T23:12:46.694Z"
-    },
-    {
       "fingerprint": "a08577a38de2918bc3ae6357fc494ae46a2647dd31489b00d8181fe29839c4c9",
       "deliveredAt": "2026-05-24T23:16:11.843Z"
     },
@@ -900,6 +860,10 @@
     {
       "fingerprint": "bb7267aa3c548a8305696df8e7030c901157650931ca034c12157d2a0a1568ae",
       "deliveredAt": "2026-11-19T03:21:21.444Z"
+    },
+    {
+      "fingerprint": "35a9e6188a509ece980b0263e172063e9f3f99265d3df35aee6d6254ba35efab",
+      "deliveredAt": "2026-11-20T03:07:16.823Z"
     }
   ]
 }
