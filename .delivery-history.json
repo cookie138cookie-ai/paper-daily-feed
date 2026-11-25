@@ -2,10 +2,6 @@
   "version": 1,
   "delivered": [
     {
-      "fingerprint": "a5199502e472968599ea88867d0df2bb0b4c1583f21e641c9864cc32d5ad7d96",
-      "deliveredAt": "2026-05-28T23:42:27.870Z"
-    },
-    {
       "fingerprint": "b90508b36aff5c93a4250a5788e6c60b4796db149b4a4c87bc18d5cc6ef2c579",
       "deliveredAt": "2026-05-30T23:14:49.792Z"
     },
@@ -844,6 +840,18 @@
     {
       "fingerprint": "7c47648d6e398ab84445b2add7f0194ae7be6351ee97de35b0b5ed81b5f2fc40",
       "deliveredAt": "2026-11-24T05:58:33.545Z"
+    },
+    {
+      "fingerprint": "4b2fef873d0fcba619889a5d754eb38cec0e64d5b4221653679a00d9a8057f1a",
+      "deliveredAt": "2026-11-25T04:53:40.792Z"
+    },
+    {
+      "fingerprint": "bd72315040cfb21c0bb71b8c3b78ec3b47013bafffba7a340fc88918f88e9e32",
+      "deliveredAt": "2026-11-25T04:53:40.792Z"
+    },
+    {
+      "fingerprint": "05524396d4e7cbb3777934ec53095ade391777d7de92d69e68510930d1c369fa",
+      "deliveredAt": "2026-11-25T04:53:40.792Z"
     }
   ]
 }
