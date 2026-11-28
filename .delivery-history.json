@@ -2,10 +2,6 @@
   "version": 1,
   "delivered": [
     {
-      "fingerprint": "52eb8390cc633d8d31b033e71e47d20a97f4f6bfe70209558bd52806bb2afff0",
-      "deliveredAt": "2026-05-31T23:16:58.894Z"
-    },
-    {
       "fingerprint": "7a189e59d5f26562bc39c8b8785e81c1091740b101e9cd9d4b9d9df3ca282849",
       "deliveredAt": "2026-06-03T00:01:47.183Z"
     },
@@ -848,6 +844,10 @@
     {
       "fingerprint": "b1a33486d1da70479c1d14b999d00063772f1297402e086e3382216076a3d150",
       "deliveredAt": "2026-11-27T04:12:40.045Z"
+    },
+    {
+      "fingerprint": "ffa89f8114c77c5b47b797a6d4bb0ff8bcc740b19f25945e9f646bfdee645387",
+      "deliveredAt": "2026-11-28T03:53:40.686Z"
     }
   ]
 }
